@@ -28,7 +28,7 @@ import pandas as pd
 
 # Allow running as a script without installing the package
 _REPO_ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(_REPO_ROOT / "src"))
+sys.path.insert(0, str(_REPO_ROOT))
 
 from casino_analytics.config import SETTINGS  # noqa: E402
 

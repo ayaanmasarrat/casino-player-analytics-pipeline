@@ -12,7 +12,7 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 # Repository root (two levels up from this file: src/casino_analytics/config.py)
 # ---------------------------------------------------------------------------
-_REPO_ROOT = Path(__file__).resolve().parents[2]
+_REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
 @dataclass(frozen=True)
