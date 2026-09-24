@@ -1,6 +1,7 @@
 # Casino Player Analytics Pipeline
 
-A clean-room, end-to-end Python analytics pipeline for casino player data.  
+A clean-room, end-to-end Python analytics pipeline for casino player data, inspired from a project in my last internship.
+Used the assistance of Cursor AI to help implement this project onto GitHub.
 Covers feature engineering, behavioural segmentation, and causal inference
 (propensity-score matching + difference-in-differences).
 
